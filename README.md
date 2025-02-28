@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I'm Jax, an undergrad computer science student specializing in web dev and cybersecurity, although I love learning about anything in regard to programming.
+
 <!--
 **JaxT05/JaxT05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
