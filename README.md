@@ -8,7 +8,9 @@ I'm Jax, an undergrad computer science student specializing in web dev and cyber
 
 -> [A music visualizer](https://github.com/JaxT05/music-visualizer)
 
--> A fishing roguelike game built in Godot [name to be determined]
+-> A fishing roguelike game built in Godot [name to be determined] (repo is set to private as of now)
+
+-> [The LiveBoard Discord bot](https://github.com/JaxT05/LiveBoard-DiscordBot)
 
 💭 Currently interested in: 
 
