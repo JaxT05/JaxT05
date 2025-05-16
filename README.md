@@ -3,8 +3,8 @@
 
 I'm Jax, an undergrad computer science student specializing in web dev and cybersecurity, although I love learning about anything regarding programming.
 
-</br>
-🎣 Currently working on:
+
+### 🎣 Currently working on:
 
 -> [A music visualizer](https://github.com/JaxT05/music-visualizer)
 
@@ -12,8 +12,8 @@ I'm Jax, an undergrad computer science student specializing in web dev and cyber
 
 -> [The LiveBoard Discord bot](https://github.com/JaxT05/LiveBoard-DiscordBot)
 
-💭 Currently interested in: 
 
+### 💭 Currently interested in: 
 -> Web development 
 
 -> Game development 
