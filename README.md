@@ -4,9 +4,21 @@
 I'm Jax, an undergrad computer science student specializing in web dev and cybersecurity, although I love learning about anything regarding programming.
 
 </br>
-🎣 Currently working on -> a fishing roguelike game built in Godot [name to be determined]
+🎣 Currently working on:
 
-💭 Currently interested in -> web development, game development, hardware modification
+-> [A music visualizer](https://github.com/JaxT05/music-visualizer)
+
+-> A fishing roguelike game built in Godot [name to be determined]
+
+💭 Currently interested in: 
+
+-> Web development 
+
+-> Game development 
+
+-> Hardware modification
+
+-> Firmware programming
 </br>
 
 View all project samples either on this profile or on [my website](http://jaxtobyas.com).
