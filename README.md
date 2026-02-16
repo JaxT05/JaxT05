@@ -6,7 +6,7 @@ I'm Jax, an undergrad computer science student specializing in web dev and cyber
 
 ### 🎣 Currently working on:
 
--> A fishing roguelike game built in Godot [name to be determined] (repo is set to private as of now)
+-> Go Fish! A fishing roguelike game built in Godot (repo is set to private as of now)
 
 
 ### 💭 Currently interested in: 
